@@ -1,0 +1,20 @@
+# NEVER commit secrets
+.streamlit/secrets.toml
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.ipynb
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

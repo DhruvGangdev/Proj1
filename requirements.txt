@@ -1,0 +1,7 @@
+groq
+pandas
+sqlalchemy
+matplotlib
+seaborn
+plotly
+streamlit
